@@ -15,13 +15,8 @@ Live demo: Add your public Netlify or GitHub Pages URL here when it is available
 
 You can also download the standalone HTML file and open it on your computer. See Option 2 below.
 How to use EgyDose
-Option 1 — Open the live demo
-1. Select the Live demo link above (once a public demo link has been added).
-2. Open the application in a modern web browser.
-3. Explore the educational sections and controls.
-Option 2 — Download EgyDose V8 as a single HTML file
+Download EgyDose V8 as a single HTML file
 ⬇️ Download EgyDose V8 (egydose-v8.html)
-
 This link downloads the individual HTML file—not the entire GitHub repository. You do not need Git, GitHub Desktop, or programming experience.
 1. Click Download EgyDose V8 (HTML) above.
 2. Your browser should download a file named egydose-v8.html.
