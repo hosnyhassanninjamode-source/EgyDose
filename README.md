@@ -23,9 +23,6 @@ You do not need to know how to code to try the project.
 5. Double-click index.html to open it in your browser.
 Important: Download the entire repository—not just index.html—and keep the files and folders together. The page may need its accompanying assets or scripts to work correctly.
 
-If opening the file directly does not work as expected, try the live demo (when available). Some browser features or local-file restrictions may require the project to be served through a local web server.
-Option 3 — Explore the source code
-You can browse the files directly on GitHub to see how the project is organised. To work with your own local copy, use Code → Download ZIP, or clone the repository if you are comfortable with Git.
 What does it explore?
 EgyDose provides an interactive way to explore selected topics covered by the application, including:
 - Radiation dose physics: introductory dose-calculation concepts and relationships.
@@ -40,7 +37,7 @@ EgyDose is built for the browser using:
 - JavaScript
 Claude was used as an AI-assisted coding tool during development, including support with implementation and debugging. The project concept, requirements, direction, and review were led by the developer.
 
-Please note: AI assistance in writing code does not make EgyDose an AI-powered application. Version 1.0 should not be understood as containing a machine-learning model or providing AI-based clinical predictions.
+Please note: AI assistance in writing code does not make EgyDose an AI-powered application. Version 8.0 should not be understood as containing a machine-learning model or providing AI-based clinical predictions.
 Important safety and educational disclaimer
 EgyDose is an independent, early-stage educational project. It is not a medical device, clinical decision-support system, or professionally developed or clinically validated treatment-planning system. It has not been established as safe or effective for clinical use.
 - Do not use EgyDose for patient treatment or patient-specific planning.
