@@ -1,0 +1,26 @@
+EgyDose V8 — Disclaimer
+Educational use only. Not for clinical use.
+
+EgyDose is an independent, early-stage educational project created to support learning and exploration of selected concepts in medical physics and radiotherapy. It is provided for educational, demonstration, and personal-learning purposes only.
+Not a medical device or clinical treatment-planning system
+EgyDose is not a medical device, is not a clinically validated treatment-planning system, and has not been approved, cleared, certified, or endorsed by any medical-device or regulatory authority. It is not intended to diagnose, treat, cure, or prevent any disease, or to support patient-specific clinical decisions.
+
+Do not use EgyDose for patient care or any clinical purpose. This includes, without limitation, treatment planning, dose prescription, dose calculation for a patient, plan evaluation or approval, monitor-unit calculation for treatment delivery, quality assurance, machine commissioning, or verification of a clinical treatment plan. Do not use its outputs to set, modify, approve, or deliver radiation treatment.
+Educational limitations and verification
+The software is an educational prototype and may contain errors, omissions, simplifications, assumptions, or implementation defects. Its calculations, visualizations, terminology, and displayed results may be incomplete or inaccurate and may not represent the behavior of professional radiotherapy systems or the full complexity of real clinical workflows.
+
+Any examples or outputs are illustrative only. They must not be interpreted as clinical recommendations, validated reference values, or evidence that a treatment plan is safe or effective. Users are responsible for checking educational material against appropriate textbooks, peer-reviewed sources, and guidance from qualified instructors. A qualified medical physicist must use independently validated, institutionally approved systems and procedures for all clinical work.
+No warranty
+EgyDose is provided “as is” and “as available,” without warranties or guarantees of any kind, to the fullest extent permitted by applicable law. No guarantee is made that the software will be accurate, complete, reliable, secure, available, or fit for any particular purpose. The developer does not guarantee that defects or errors will be identified or corrected.
+Limitation of responsibility
+To the fullest extent permitted by applicable law, the developer and contributors disclaim responsibility for loss, damage, injury, or other consequences arising from the access to, use of, inability to use, or reliance on EgyDose or any output it produces. Nothing in this disclaimer excludes or limits liability where doing so would be unlawful.
+Independent project; no vendor affiliation
+EgyDose is an independent project and is not affiliated with, sponsored by, endorsed by, or approved by any radiotherapy equipment manufacturer, software vendor, hospital, university, or other organization unless expressly stated otherwise. Any third-party names are used only where necessary for identification or discussion; their owners retain their respective rights. No endorsement should be inferred.
+AI-assisted development
+AI tools, including Claude, were used as coding assistance during development. AI assistance does not constitute clinical validation, independent scientific review, regulatory approval, or a guarantee of correctness. The project’s design decisions and review remain the responsibility of its developer.
+Separate licence terms
+This disclaimer explains the project’s intended use and limitations. It does not grant permission to use, copy, modify, distribute, or commercially exploit the software. Those permissions and restrictions are governed by the separate LICENSE file. If there is any inconsistency between this disclaimer and the licence, the applicable licence terms govern questions of software permissions. This disclaimer does not replace legal advice or a licence review.
+Project: EgyDose V8
+Developer: Hosny Hassan
+Copyright: © 2026 Hosny Hassan
+Intended use: Education and learning only — never clinical use.
