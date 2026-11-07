@@ -1,0 +1,91 @@
+EgyDose Educational Use License (EEUL) v1.0
+
+Copyright (c) 2026 Hosny Hassan
+EgyDose V8
+
+All rights reserved except for the limited permission expressly granted below.
+
+IMPORTANT
+This is a custom, restrictive license written for the EgyDose project. It is not an OSI-approved open-source license and is not a standard Creative Commons or PolyForm license. It has not been reviewed by a lawyer. It should be reviewed by a qualified intellectual-property lawyer in the relevant jurisdiction before being relied upon.
+
+1. DEFINITIONS
+
+"Software" means the EgyDose V8 source code, application files, interface, and accompanying project materials that are owned by the Copyright Holder and made available in this repository. It does not include third-party materials, libraries, trademarks, data, or other content owned by someone else; those remain subject to their own terms.
+
+"Copyright Holder" means Hosny Hassan.
+
+"Educational Purpose" means personal study, noncommercial teaching, classroom demonstrations, and noncommercial academic learning or research. It does not include use in patient care, a clinical workflow, or any activity intended to guide a real patient's diagnosis, treatment, radiotherapy planning, dose prescription, or clinical management.
+
+2. LIMITED PERMISSION
+
+Subject to full compliance with this License, the Copyright Holder grants you a limited, non-exclusive, non-transferable, non-sublicensable, royalty-free permission to:
+
+(a) view the Software source code;
+(b) download and run an unmodified copy of the Software solely for an Educational Purpose; and
+(c) display unmodified screenshots or outputs for noncommercial educational presentations, provided that the authorship notice and educational-use disclaimer are retained and the material is not presented as clinically validated.
+
+This permission applies only to the Software portions that the Copyright Holder has the right to license.
+
+3. RESTRICTIONS
+
+Unless you obtain prior written permission from the Copyright Holder, you may not:
+
+(a) use, deploy, or rely on the Software for patient treatment, clinical dose calculations, treatment planning, treatment verification, commissioning, quality assurance for patient treatment, diagnosis, clinical decision-making, or any other clinical or patient-care purpose;
+(b) use the Software for commercial purposes, including selling, licensing, renting, or charging for access to it, incorporating it into a paid product or service, or using it to provide paid services;
+(c) distribute, publish, sublicense, sell, rent, or otherwise make copies of the Software available outside the repository or the GitHub platform's own repository and forking functionality;
+(d) publish or distribute modified versions, adaptations, or derivative works of the Software;
+(e) remove, hide, alter, or obscure copyright notices, author credits, this License, or the educational-use and non-clinical disclaimers;
+(f) claim or imply that the Software is clinically validated, certified, approved, endorsed, sponsored by, or affiliated with any hospital, university, regulator, radiotherapy vendor, or other organization; or
+(g) use the name, logo, or trademarks of any third party in a way that suggests endorsement or affiliation.
+
+4. ATTRIBUTION
+
+When displaying the Software or permitted screenshots and outputs, you must retain a clear and reasonably visible credit substantially in this form:
+
+"EgyDose V8 — developed by Hosny Hassan. Independent educational project; not for clinical use."
+
+You must not remove or misrepresent the identity of the Copyright Holder.
+
+5. NO CLINICAL OR SAFETY ASSURANCE
+
+The Software is an early-stage educational project. It is not a medical device, is not a professionally developed or clinically validated treatment-planning system, and has not been established as safe or accurate for clinical use. Its calculations, methods, assumptions, and outputs may be incomplete, simplified, or incorrect.
+
+The Software must not be used, directly or indirectly, to make or support decisions about any real patient. A disclaimer does not make clinical use safe or permitted.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR AVAILABILITY, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, LOSS, OR DAMAGE ARISING OUT OF OR RELATING TO THE SOFTWARE or this License, whether in contract, tort, or otherwise. Nothing in this License excludes or limits liability that cannot lawfully be excluded or limited.
+
+8. TERMINATION
+
+Your permission under this License ends automatically if you materially breach its terms. When your permission ends, you must stop using the Software and delete copies in your possession or control, except to the extent retention is required by applicable law. The Copyright Holder may separately seek any remedies available under applicable law.
+
+9. OTHER PERMISSIONS
+
+Any use not expressly permitted by this License is reserved to the Copyright Holder and requires prior written permission. The Copyright Holder may grant separate permissions or licenses to others.
+
+10. THIRD-PARTY RIGHTS
+
+This License does not grant rights to third-party software, fonts, images, datasets, trademarks, or other materials that may be included with, referenced by, or used by the Software. You are responsible for reviewing and complying with the applicable terms for those materials.
+
+11. NO AFFILIATION
+
+EgyDose is an independent educational project. It is not affiliated with, endorsed by, sponsored by, or approved by Varian Medical Systems or any other radiotherapy equipment manufacturer or commercial treatment-planning vendor. Any third-party names are used only where necessary to identify or describe third-party materials or concepts and do not imply affiliation.
+
+12. CONTACT AND WRITTEN PERMISSION
+
+For permission requests beyond the scope of this License, contact the Copyright Holder through the contact information published on the official EgyDose repository or the Copyright Holder's public professional profile.
+
+13. GITHUB PUBLIC-REPOSITORY NOTICE
+
+If the Software is hosted in a public GitHub repository, GitHub's Terms of Service permit other GitHub users to view and fork public repository content through GitHub's service. This License does not attempt to override GitHub's Terms of Service or rights that GitHub grants through its platform. A public repository therefore cannot guarantee that other users will be unable to create GitHub forks. This License does not grant any broader permission to use, modify, or redistribute the Software outside the permissions expressly stated here. If you do not wish to allow GitHub's public viewing and forking functionality, do not publish the source repository publicly; consider keeping the repository private and sharing only a hosted demonstration.
+
+14. GOVERNING LAW
+
+This License is subject to applicable law. No choice of governing law or exclusive jurisdiction is specified in this draft; obtain legal advice before adding such a provision.
+
+END OF LICENSE
