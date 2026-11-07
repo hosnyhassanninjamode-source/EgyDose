@@ -10,13 +10,12 @@ The project is intended for students, educators, and curious learners who want t
 - Version: V8
 - Developer: Hosny Hassan
 - Year: 2026
-Try EgyDose
-Live demo: Add your public Netlify or GitHub Pages URL here when it is available.
 
-You can also download the standalone HTML file and open it on your computer. See Option 2 below.
 How to use EgyDose
 Download EgyDose V8 as a single HTML file
-⬇️ Download EgyDose V8 (egydose-v8.html)
+
+[⬇️ DOWNLOAD EgyDose V8 (HTML)](./egydose-v8.html?raw=1)
+
 This link downloads the individual HTML file—not the entire GitHub repository. You do not need Git, GitHub Desktop, or programming experience.
 1. Click Download EgyDose V8 (HTML) above.
 2. Your browser should download a file named egydose-v8.html.
