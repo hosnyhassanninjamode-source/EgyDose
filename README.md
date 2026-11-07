@@ -1,4 +1,4 @@
-EgyDose v1.0
+EgyDose v8.0
 An independent, browser-based educational project exploring radiotherapy dose physics and treatment-planning concepts.
 Educational use only — NOT FOR CLINICAL USE. EgyDose is an early-stage learning project. It is not a professionally developed or clinically validated treatment-planning system, medical device, or substitute for qualified clinical software and professional judgment. Never use it for patient treatment, clinical dose calculations, treatment decisions, or patient care.
 
