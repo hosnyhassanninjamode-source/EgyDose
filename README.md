@@ -14,7 +14,7 @@ The project is intended for students, educators, and curious learners who want t
 How to use EgyDose
 Download EgyDose V8 as a single HTML file
 
-https://github.com/hosnyhassanninjamode/EgyDose/releases/latest/download/egydose-v8.html
+https://github.com/hosnyhassanninjamode-source/EgyDose/releases/latest/download/egydose-v8.html
 
 This link downloads the individual HTML file—not the entire GitHub repository. You do not need Git, GitHub Desktop, or programming experience.
 1. Click Download EgyDose V8 (HTML) above.
