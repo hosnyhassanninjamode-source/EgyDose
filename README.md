@@ -28,16 +28,14 @@ A few helpful notes:
 - Keep an internet connection available in case the page loads libraries or other resources from the web.
 - If the application does not display or behave as expected when opened locally, try the live demo (when available) or report the issue through the repository's Issues tab.
 Please note: This single-file download is intended to let you try the application without downloading the entire repository. It does not include the README, licence, disclaimer, or project history. Those remain available here on GitHub.
-Option 3 — Download the complete project
+another option — Download the complete project
 Choose this option if you want the documentation and all files in the repository:
 1. At the top of this GitHub repository, select the green Code button.
 2. Choose Download ZIP.
 3. Extract the downloaded ZIP file to a folder on your computer.
 4. Open the extracted folder and review the project files.
 5. Follow any file-specific instructions before running or modifying the project.
-Option 4 — Explore the source file on GitHub
-You can browse egydose-v8.html directly in the repository. This is useful if you want to inspect the HTML source. To run the application, use the single-file download in Option 2 instead.
-What does it explore?
+
 EgyDose provides an interactive way to explore selected topics covered by the application, including:
 - Radiation dose physics: introductory dose-calculation concepts and relationships.
 - Treatment-planning concepts: selected treatment parameters and their educational context.
